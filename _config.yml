@@ -1,0 +1,8 @@
+title: Austin Attractions
+description: Accessible Tourism Options During the 2026 NFB Convention
+author: Jamal Mazrui
+theme: jekyll-theme-cayman
+markdown: kramdown
+kramdown:
+  input: GFM
+  toc_levels: 2..3
